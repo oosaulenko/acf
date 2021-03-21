@@ -2,6 +2,6 @@
     "name": "looly/acf",
     "description": "ACF",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.4"
     }
 }
