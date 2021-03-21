@@ -1,6 +1,7 @@
 {
     "name": "wordpress-plugin/advanced-custom-fields-pro",
     "description": "ACF",
+    "type": "wordpress-plugin",
     "require": {
         "php": ">=7.4"
     }
